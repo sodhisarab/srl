@@ -6678,3 +6678,90 @@ svg {
 .elementor-element.elementor-element-3f1d120 {
   padding-right: 104px;
 }
+.daily-lottery .eael-woo-product-carousel-container.preset-1 .eael-product-carousel {
+  border-radius: 0px;
+  background-color: #FFF;
+  text-align: left;
+  margin: 10px; 
+  border-bottom: 3px solid #003471;
+  box-shadow: 0px 0px 10px 1px #00000036;
+}
+.daily-lottery .eael-woo-product-carousel-container.preset-1 .eael-product-carousel .product-image-wrap {
+  border-radius: 20px 20px 0 0;
+  text-align: center;
+  padding: 10px 7px;
+}
+.daily-lottery .eael-woo-product-carousel-container.preset-1 .product-details-wrap .product-details {
+  width: 100%;
+}
+.daily-lottery .image-wrap{
+  border: 1px solid #acacac;
+  margin: 9px;
+}
+.daily-lottery .eael-woo-product-carousel-container.preset-1 .product-details-wrap{
+  flex-wrap: wrap;
+}
+.daily-lottery .eael-woo-product-carousel-container.preset-1 .product-details-wrap .eael-product-price
+  {
+    width: 100%;
+    text-align: left;
+    color: #000;
+    font-weight: bold;
+    margin-top: -8px;
+    font-size: 15px;
+}
+.closing-soon .eael-product-grid.eael-product-simple .woocommerce ul.products li.product .button {
+  margin: 0;
+  display: block;
+  position: relative;
+}
+.closing-soon .eael-product-grid.eael-product-simple .woocommerce ul.products li.product .button:after{
+  height: 2px;
+  border-bottom: 2px solid #003471;
+  width: 100%;
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  margin-top:-10px
+}
+.closing-soon .eael-product-grid .eael-product-wrap .eael-product-price {
+  margin-bottom: 20px;
+}
+.closing-soon .eael-product-title
+{
+  text-align: left;
+  padding: 0px 13px;
+}
+.closing-soon .eael-product-price{
+  text-align: left;
+  padding: 0px 13px;
+}
+.elementor .closing-soon .eael-product-grid.eael-product-simple .woocommerce ul.products li.product{
+  box-shadow: 0px 0px 10px 1px #00000036;
+}
+.clients-section .strong-view.wpmtst-modern .wpmtst-testimonial-content:before {
+  content: "";
+  left: -16px;
+  top: -4px;
+  width: 22px;
+}
+.clients-section .strong-view.wpmtst-modern .wpmtst-testimonial-content:after {
+  content: "";
+  right: -10px;
+  bottom: 16px;
+  width: 22px;
+}
+.elementor .tickets-section .eael-product-grid.eael-product-simple .woocommerce ul.products li.product{
+  border: 0;
+}
+.tickets-section .eael-product-grid.eael-product-simple .woocommerce ul.products li.product .button {
+    color: #fff;
+    background-color: #003471;
+    width: 156px;
+    margin: auto;
+    padding: 6px 0px;
+}
+.result-btn a.elementor-button-link.elementor-button.elementor-size-sm:hover {
+  color: #fff;
+}
